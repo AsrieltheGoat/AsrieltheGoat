@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asriel Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [Terminal-test](https://github.com/asrielthegoat/terminal-test)
-
-- 👯 I’m looking to collaborate on [Duy](https://github.com/DuykhanhGaming)
-
-- 📫 How to reach me **admin@dreemurr.ga**
+- 📫 How to reach me: **admin@dreemurr.ga**
 
 - ⚡ Fun fact **I play Genshin Impact and touched grass**
 
