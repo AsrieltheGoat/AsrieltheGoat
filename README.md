@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asriel Nguyen</h1>
 <h3 align="center">A passionate frontend student from Vietnam</h3>
 
-<p align="center">📫 How to reach me: **admin@dreemurr.ga**</p>
+<p align="center">📫 How to reach me: admin@dreemurr.ga</p>
 
-<p align="center">⚡ Fun fact **I play Genshin Impact and touched grass**</p>
+<p align="center">⚡ Fun fact: I play Genshin Impact and touched grass</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
