@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Asriel Nguyen</h1>
-<h3 align="center">A passionate javascript student from Viet Nam</h3>
+![Profile avatar](https://cdn.discordapp.com/avatars/449027724338659331/8702f62aa8cbf4fc33a2be8cfcd9c2a0)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asrielthegoat&label=Profile%20views&color=0e75b6&style=flat" alt="asrielthegoat" /> </p>
+# Asriel Nguyen
+<!-- Badges -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
-<div align="center">
-📫 How to reach me: <b>asriel@dreemurrs.eu.org</b>
-<br>
-⚡ Fun fact: <b>Love Ganyu 💖🐐</b>
-</div>
+-   👋 Hi, I'm Asriel Nguyen, a passionate javascript student and [MMDer](https://en.wikipedia.org/wiki/MikuMikuDance) from Viet Nam
+-   🌱 I’m currently learning JavaScript, NodeJS, and Nginx
+-   🐐 Ganyu my beloved 🥰
+#
+<!-- Discord status -->
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+[![Status](https://discord.c99.nl/widget/theme-4/449027724338659331.png)](https://discordapp.com/users/449027724338659331)
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://ko-fi.com/duykhanhgaming"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="duykhanhgaming" /></a></p><br><br>
+<!-- My stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=asrielthegoat&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
 
+<!-- Contact infos -->
+## Websites: 
+- Down because I haven't contact my [ISP](https://vnpt.com.vn) to open ports for my server
+
+[![Website](https://img.shields.io/badge/dreemurrs.eu.org-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://dreemurrs.eu.org)
+[![Website](https://img.shields.io/badge/segs.eu.org-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://segs.eu.org)
+
+## Contact me:
+
+[![Discord](https://img.shields.io/badge/asrielthegoat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/449027724338659331)
+[![Ko-Fi](https://img.shields.io/badge/AsrieltheGoat-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/asrielthegoat)
+[![Gmail](https://img.shields.io/badge/ganyu@segs.eu.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:ganyu@segs.eu.org)
+
+<!-- Views -->
+<p><img src="https://komarev.com/ghpvc/?username=asrielthegoat&label=Profile%20views&color=0e75b6&style=flat" alt="asrielthegoat" /></p>
