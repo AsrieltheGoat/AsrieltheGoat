@@ -29,7 +29,7 @@
 
 [![Discord](https://img.shields.io/badge/asrielthegoat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/449027724338659331)
 [![Ko-Fi](https://img.shields.io/badge/AsrieltheGoat-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/asrielthegoat)
-[![Gmail](https://img.shields.io/badge/ganyu@segs.eu.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:ganyu@segs.eu.org)
+[![Gmail](https://img.shields.io/badge/ganyu@segs.eu.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganyu@segs.eu.org)
 
 <!-- Views -->
 <p><img src="https://komarev.com/ghpvc/?username=asrielthegoat&label=Profile%20views&color=0e75b6&style=flat" alt="asrielthegoat" /></p>
